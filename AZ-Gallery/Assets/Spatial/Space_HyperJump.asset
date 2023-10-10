@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5621e5ad1b9084f8bb66de8251cfd5a3, type: 3}
   m_Name: Space_HyperJump
   m_EditorClassIdentifier: 
-  version: 0
+  version: 1
   sku: 64d492a3811434a0e05931be
   packageName: AZ-Gallery
   thumbnail: {fileID: 2800000, guid: 9a5aa6a5d511a53429936db84e4a4ab8, type: 3}
@@ -20,3 +20,7 @@ MonoBehaviour:
     type: 2}
   worldID: 0ONN_hpllHWDlJm0hWR-l
   scene: {fileID: 102900000, guid: 40e434bb415f31a4a9badd9367fbf5c5, type: 3}
+  settings:
+    serverInstancingEnabled: 1
+    serverCapacitySetting: 0
+    serverInstanceCapacity: 50
